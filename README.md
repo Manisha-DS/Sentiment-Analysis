@@ -6,8 +6,8 @@ This is a sample dataset which consists of 161297 drug name, condition reviews a
 The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction.
 So in this dataset, we can see many patients conditions but we will focus only on the below, classify the below conditions from the patients reviews 
 a. Depression
-c. High Blood Pressure
-d. Diabetes, Type 2
+b. High Blood Pressure
+c. Diabetes, Type 2
 
 Attribute Information:
 
